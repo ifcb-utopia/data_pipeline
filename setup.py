@@ -10,9 +10,7 @@ setup(
     author_email='ckb22@uw.edu',
     license='GPLv3', 
     packages=['utopia_pipeline_tools'], 
-    install_requires=['mpi4py>=2.0',
-                      'numpy', 
-                      'python >=3.9, <4.0',
+    install_requires=['numpy', 
                       'jupyter',
                       'ipykernel',
                       'numpy>=1.2',
@@ -34,11 +32,8 @@ setup(
                       'plotly',
                       'umap-learn',
                       'marimo',
-                      'cv2',
                       'seaborn',
-                      'io',
-                      'IPython',
-                      'sys'                 
+                      'IPython',                 
                       ],  ## all the dependencies
 
     classifiers=[
