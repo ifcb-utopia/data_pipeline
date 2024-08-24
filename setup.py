@@ -34,7 +34,8 @@ setup(
                       'marimo',
                       'seaborn',
                       'IPython',
-                      'streamlit==1.29',                 
+                      'streamlit==1.29',
+                      'keras'                 
                       ],  ## all the dependencies
 
     classifiers=[
