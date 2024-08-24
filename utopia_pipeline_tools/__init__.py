@@ -3,6 +3,7 @@ utopia_pipeline_tools
 """
 
 # a bit of metadata
+__version__ = '0.1.0'
 __author__ = 'Claire Berschauer'
 __credits__ = 'Applied Physics Laboratory - UW'
 
