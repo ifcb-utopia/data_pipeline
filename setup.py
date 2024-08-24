@@ -33,7 +33,8 @@ setup(
                       'umap-learn',
                       'marimo',
                       'seaborn',
-                      'IPython',                 
+                      'IPython',
+                      'streamlit==1.29',                 
                       ],  ## all the dependencies
 
     classifiers=[
