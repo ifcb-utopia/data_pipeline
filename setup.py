@@ -18,7 +18,7 @@ setup(
                       'scikit-learn>=1.2',
                       'matplotlib>=3.5',
                       'imageio',
-                      'tensorflow',
+                      'tensorflow==2.16.2',
                       'pip',
                       'tqdm',
                       'pylint',
